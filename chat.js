@@ -5,6 +5,7 @@ const chat = () => {
   return (
     <View>
       <Text>chat</Text>
+      <Text>chdjkdjjdjdjat</Text>
     </View>
   );
 };
